@@ -1,7 +1,5 @@
-<center> 冰火创世纪 </center>
-=
-<center>目录</center>
--
+# <center> 冰火创世纪 </center>
+
 
 [冰火程序](./developer/develop-main.md)  
 汇总程序人员在开发期间遇到的问题及相关记录

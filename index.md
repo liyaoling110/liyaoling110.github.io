@@ -1,7 +1,5 @@
-<center> 大风兄弟白皮书 </center>
-=
-<center>目录</center>
--
+# <center> 大风兄弟白皮书 </center>
+
 
 ## [新员工入职流程](./newrecruits/index.md)
 新员工入职流程及引导
